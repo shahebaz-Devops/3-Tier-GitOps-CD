@@ -34,4 +34,4 @@ spec:
           service: { name: frontend-svc, port: { number: 80 } }
   tls:
   - hosts: [shahebaz.shop, www.shahebaz.shop]
-    secretName: shahebaz-shop-tls   # <-- consistent, .com
+    secretName: adityajaiswal-com-tls   # <-- consistent, .com
