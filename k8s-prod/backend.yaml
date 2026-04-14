@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: shahebazdocker/backend:2296516485beaa17e038e43131cde96ddb4a3196
+          image: shahebazdocker/backend:ebb46862200331f1706a5a9c4d19662c6a60d82c
           ports:
             - containerPort: 5000
           env:
