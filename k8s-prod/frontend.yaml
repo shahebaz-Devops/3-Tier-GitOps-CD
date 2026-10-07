@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: shahebazdocker/frontend:b01c5f2a929864ecf8a55807ed8043e9a2018965
+          image: shahebazdocker/frontend:a0a8f5550082f8c14692ead9f3e0ff2a0212e352
           ports:
             - containerPort: 80
 ---
