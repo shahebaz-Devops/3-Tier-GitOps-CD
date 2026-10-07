@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: shahebazdocker/frontend:a0a8f5550082f8c14692ead9f3e0ff2a0212e352
+          image: 820374639535.dkr.ecr.us-east-1.amazonaws.com/frontend:a0a8f5550082f8c14692ead9f3e0ff2a0212e352
           ports:
             - containerPort: 80
 ---
