@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: 820374639535.dkr.ecr.us-east-1.amazonaws.com/backend:a0a8f5550082f8c14692ead9f3e0ff2a0212e352
+          image: shahebazdocker/backend:4740de6fd8e493dce8ae57dee209ccf2ffa889ef
           ports:
             - containerPort: 5000
           env:
